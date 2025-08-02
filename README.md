@@ -3,6 +3,9 @@
 ## Overview
 AutoClaim AI is an autonomous agent built on **Inya.ai** that automates the insurance claim processing workflow. It verifies documents, extracts claim details, checks policy rules against IRDAI guidelines, detects missing data or fraud, and provides real-time claim status updates — reducing manual processing time from days to minutes.
 
+<img width="900" height="270" alt="image" src="https://github.com/user-attachments/assets/62bec2d4-ce56-432b-9be9-182aa9db3fef" />
+
+
 ---
 
 ## Problem Statement
