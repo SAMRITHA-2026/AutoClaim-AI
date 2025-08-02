@@ -11,6 +11,8 @@ AutoClaim AI is an autonomous agent built on **Inya.ai** that automates the insu
 ## Problem Statement
 Manual insurance claim processing is slow, error-prone, and requires human verification of documents and policy rules. This results in delays, fraud risks, and poor customer experience.
 
+<img width="1737" height="833" alt="image" src="https://github.com/user-attachments/assets/947129fa-b2c7-403b-94d9-f075b1021f40" />
+
 ---
 
 ## Solution
