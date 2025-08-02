@@ -22,6 +22,8 @@ AutoClaim AI streamlines claims by:
 - Providing instant claim decisions (approve/reject/flag) with explanations
 - Offering real-time updates and customer guidance
 
+<img width="1281" height="542" alt="image" src="https://github.com/user-attachments/assets/f2f80fea-22b8-429e-a441-c97a21067f07" />
+
 ---
 
 ## Features
